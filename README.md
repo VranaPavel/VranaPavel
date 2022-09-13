@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Pavel Vrána</h1>
-<h3 align="center">A cybersecurity student from Czech republic</h3>
+<h3 align="center">A cybersecurity student at Smíchovská střední průmyslová škola (Smichov Secondary Technical School)</h3>
 
 <h3 align="left">About me:</h3>
 <p align="left">
