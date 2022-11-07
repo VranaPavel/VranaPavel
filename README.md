@@ -5,11 +5,11 @@
 <p align="left">
 </p>
 
-- 👨‍🎓 I’m currently learning C++
+- 👨‍🎓 I’m currently learning C
 - 🤝 I’m open to collaborate on interesting project
 - 💬 I’m looking for cooperation with smart and capable people
 - 🖥 I’m interesting in cybersecurity and Linux
-- 📝 I stand for the values of modern education
+- 📝 I'm actually learning reverse engeneering
 - 🔭 Ready for future
 
 <h3 align="left">Technologies:</h3>
