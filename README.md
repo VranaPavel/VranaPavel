@@ -1,4 +1,6 @@
 # 💫 About Me:
+I am cybersecurity student with 🇦🇹 blood in veins. I want to be fullstack-developer.
+
 👨‍🎓 I’m currently learning Svelte and Typescript<br>🤝 I’m open to collaborate on interesting project<br>💬 I’m looking for cooperation with smart and capable people<br>🖥 I’m interesting in cybersecurity and Linux<br>🔭 Ready for future
 
 
