@@ -1,5 +1,5 @@
 # 💫 About Me:
-📝 I'm currently working on new calendar webapp<br>👨‍🎓 I’m currently learning Svelte and Typescript<br>🤝 I’m open to collaborate on interesting project<br>💬 I’m looking for cooperation with smart and capable people<br>🖥 I’m interesting in cybersecurity and Linux<br>🔭 Ready for future
+📝 I'm currently working on new calendar webapp<br>👨‍🎓 I’m currently learning Svelte and Rust<br>🤝 I’m open to collaborate on interesting project<br>💬 I’m looking for cooperation with smart and capable people<br>🖥 I’m interesting in cybersecurity and Linux<br>🔭 Ready for future
 
 
 # 💻 Tech Stack:
