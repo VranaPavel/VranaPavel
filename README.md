@@ -22,7 +22,7 @@
 </br></br>
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VranaPavel&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-crowthedev.vercel.app/api?username=VranaPavel&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VranaPavel&theme=blue-green&hide_border=false)<br/>
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=VranaPavel&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
