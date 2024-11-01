@@ -9,8 +9,9 @@
 ### Languages
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=kotlin,c,cs,markdown,html,css&perline=7)
-</br>
-![](https://github-readme-stats-crowthedev.vercel.app/api/top-langs/?username=VranaPavel&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+</br></br>
+![](https://github-readme-stats-crowthedev.vercel.app/api/top-langs/?username=VranaPavel&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</br></br>
 
 ### Tools
   
